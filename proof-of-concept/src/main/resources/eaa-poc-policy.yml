@@ -1,0 +1,5 @@
+policy:
+  name: "EAA PoC Policy"
+  description: "A proof-of-concept policy for the European Accessibility Act."
+  rules:
+    - "color-contrast"

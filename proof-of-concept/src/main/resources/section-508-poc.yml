@@ -1,0 +1,5 @@
+policy:
+  name: "Section 508 PoC Policy"
+  description: "A proof-of-concept policy for the US Section 508 standard."
+  rules:
+    - "image-alt"
